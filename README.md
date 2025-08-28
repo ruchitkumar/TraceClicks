@@ -13,3 +13,5 @@ This is the starter project that pairs with the step-by-step guide in chat.
 ## Security
 - Firestore rules (see `firestore.rules`) restrict each user to their own `/users/{uid}` doc.
 - API checks `Authorization: Bearer <Firebase ID token>` before returning data.
+
+The Hosted URL : https://vite-2e8b4.web.app
